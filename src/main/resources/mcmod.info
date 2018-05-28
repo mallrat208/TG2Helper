@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tg2helper",
+  "name": "TG2 Helper",
+  "description": "A Small Helper mod for pWn3d1337's Techguns 2, version 2.0.1.1. Removes empty NBT from Drops and adds compatability with Galacticraft Tabs",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["mallrat208"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
