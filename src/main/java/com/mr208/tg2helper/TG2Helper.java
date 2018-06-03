@@ -9,7 +9,7 @@ public class TG2Helper
 {
 	public static final String MOD_NAME = "TG2 Helper";
 	public static final String MOD_ID = "tg2helper";
-	public static final String MOD_VERS = "1.0.0";
+	public static final String MOD_VERS = "1.0.1";
 	
 	@SidedProxy(serverSide = "com.mr208.tg2helper.CommonProxy", clientSide = "com.mr208.tg2helper.ClientProxy", modId = MOD_ID)
 	public static CommonProxy proxy;
